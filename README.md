@@ -22,9 +22,9 @@ El Puntaje Global será la variable principal de interés, como es el desempeño
 
 ### Descarga de las bases de datos
 
-Las bases de datos principales están disponibles en la página de ICFES: https://www2.icfes.gov.co/web/guest/resultados-individuales-saber-11. (Hay que crear una cuenta para poder accederlas). Los resultados son al nivel del individuo.
+*Resultados Individuals de Saber 11* Las bases de datos principales están disponibles en la página de ICFES: https://www2.icfes.gov.co/web/guest/resultados-individuales-saber-11. (Hay que crear una cuenta para poder accederlas). Los resultados son al nivel del individuo.
 
-Como estudiantes tienen dos fechas para presentar el examan, dependiendo en general en el calendario del colegio, hay dos archivos de texto por cada año. Los descargué para el año 2021, los convertí en formato de DataFrame utilizando Pandas en Python, y los uní para crear solo una base de datos. El código está disponible [aquí].
+Como hay dos opciones de fecha para presentar el examan, dependiendo del calendario del colegio, hay dos archivos de texto por cada año. Los descargué para el año 2021, los convertí en formato de DataFrame utilizando Pandas en Python, y los uní para crear solo una base de datos. El código está disponible [aquí].
 
 También accedé a la base de datos del Ministerio de Educación, _Estadísticas en Educación_ ,a través del protocolo Socrata Open Data API (SODA). Disponible en el sitio de Datos Abiertos: https://www.datos.gov.co/Educaci-n/MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR-B-SICA/nudc-7mev.
 
