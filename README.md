@@ -17,9 +17,8 @@ Yo pretendo hacer esto a través de una análisis de las diferencias socioeconó
 
 El Puntaje Global será la variable principal de interés, como es el desempeño general de los estudiantes al graduarse de bachiller, y se considera un 'proxy' para evaluar la calidad de la ensenañza de los colegios.
 
-
-## Méotodos Utilizados
 ---
+## Méotodos Utilizados
 
 ### Descargar las bases de datos
 
@@ -61,7 +60,7 @@ El código está disponible [aquí].
 - Utilicé QGIS para visualizar las relaciones entre variables al nivel del departamento. 
 
 ---
-### Findings
+## Resultados
 
 
 
