@@ -26,7 +26,7 @@ Yo pretendo hacer esto a través de una análisis de las diferencias socioeconó
 
 ### Descargar las bases de datos
 
-La base de datos principal está disponible en la página de ICFES: (https://www2.icfes.gov.co/web/guest/resultados-individuales-saber-11). (Hay que crear una cuenta para poder accederla). 
+Las bases de datos principales están disponible en la página de ICFES: https://www2.icfes.gov.co/web/guest/resultados-individuales-saber-11. (Hay que crear una cuenta para poder accederlas). Como estudiantes tienen dos fechas para presentar el examan, dependiendo en general en el calendario del colegio, hay dos archivos por cada año. Los descargué, los convertí en formato de DataFrame utilizando Pandas en Python, y los uní para crear solo una base de datos. El código está disponible [aquí]. 
 
 ### Depuración de los datos
 
