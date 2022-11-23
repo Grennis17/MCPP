@@ -47,7 +47,7 @@ El código está disponible [aquí].
 
 - Creé diccionarios y otros _Data Frames_ más pequeños a partir de los grandes para poder analizar grupos de variables al nivel individual. 
 - Utilice _pandas_ y _numpy_ para sacar estadísticas descriptivas sobre los estudiantes.
-- Utilicé _seaborn_ and _matplotlib_ para hacer los gráficos iniciales.
+- Utilicé _seaborn_ , _matplotlib_ and _plotly_ para hacer gráficos bivariados.
 
 El código está disponible [aquí].
 
@@ -58,6 +58,7 @@ El código está disponible [aquí].
 - Creé un modelo de regresión multivariable, con el puntaje global como variable dependiente y variables socioeconómicas del hogar y colegio (principalmente variables dummies) como variables explicativas, para entender la influenica de cada una en el rendimiento de los estudiantes. Todas resultaron ser significativas, pero el R^2 fue bajo.
 
 
+<img width="724" alt="Captura de Pantalla 2022-11-23 a la(s) 11 12 48 a m" src="https://user-images.githubusercontent.com/103537621/203595066-0fa16ec8-15aa-4189-b17f-7aad3e07cdb2.png">
 
 
 
@@ -94,13 +95,14 @@ El código está disponible [aquí].
 ### Al Nivel Familiar
 
 
+<img width="443" alt="fam_situacion" src="https://user-images.githubusercontent.com/103537621/203604853-01b0e01c-939f-4ddd-b915-0c57e28f18d2.png">
 
 
+<img width="443" alt="fam_estrato" src="https://user-images.githubusercontent.com/103537621/203604884-2714fa10-d79c-4e8f-8f5d-5317628b4b50.png">
 
+<img width="682" alt="fam_comp_int" src="https://user-images.githubusercontent.com/103537621/203604906-789e5189-b199-43ca-9629-36b993cd114c.png">
 
-
-
-
+<img width="622" alt="fam" src="https://user-images.githubusercontent.com/103537621/203604927-780bb352-74ad-4f8f-bec9-94f54aef2a93.png">
 
 
 
@@ -108,6 +110,15 @@ El código está disponible [aquí].
 
 ### Al Nivel Escolar 
 
+
+<img width="622" alt="colegio" src="https://user-images.githubusercontent.com/103537621/203604960-0c816d6b-3f6b-450b-a20d-2adac8308967.png">
+
+
+![newplot (2)](https://user-images.githubusercontent.com/103537621/203619721-59f0ec03-f3ec-4af1-ba8f-e07f3fb4ade6.png)
+
+
+
+![newplot (3)](https://user-images.githubusercontent.com/103537621/203619981-1b2c6567-f987-4b52-97f0-e87afbce4821.png)
 
 
 
