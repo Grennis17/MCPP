@@ -111,7 +111,7 @@ El código está disponible [aquí].
 ### Al Nivel Escolar 
 
 
-<img width="622" alt="colegio" src="https://user-images.githubusercontent.com/103537621/203604960-0c816d6b-3f6b-450b-a20d-2adac8308967.png">
+<img width="599" alt="Captura de Pantalla 2022-11-23 a la(s) 3 23 33 p m" src="https://user-images.githubusercontent.com/103537621/203639791-146682f0-23b1-47f7-b060-dabd0db84df3.png">
 
 
 ![newplot (2)](https://user-images.githubusercontent.com/103537621/203619721-59f0ec03-f3ec-4af1-ba8f-e07f3fb4ade6.png)
