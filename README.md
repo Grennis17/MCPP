@@ -63,6 +63,24 @@ El código está disponible [aquí].
 ## Resultados
 
 
-
+### A Nivel Familiar
 
 ![factoresfamiliares](https://user-images.githubusercontent.com/103537621/203404522-fa5bdc92-28f7-4b90-8667-8bd6751de54c.png)
+
+
+### A Nivel Escolar 
+
+
+
+
+
+### A Nivel del Municipio 
+
+
+
+
+### A Nivel del Departamento 
+
+
+
+
