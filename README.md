@@ -2,7 +2,7 @@
 
 ## Descripción y Motivación
 
-La educación es una de las herramientas más poderosas para disminuir la desigualdad y promover la mobilidad social, con el potencial de romper el cíclo  de pobreza y marginalización intergeneracional. Sin embargo, diferencias en el acceso a la educación y la calidad de esta, plantea un desafío enorme para la igualdad de oportunidad. Por lo tanto, identificar las barreras a la educación y los factores que impactan la calidad de la enseñanza, además de la capacidad de aprendizaje por parte de los estudiantes, es un importante primer paso. 
+La educación es una de las herramientas más poderosas para disminuir la desigualdad y promover la mobilidad social, con el potencial de romper el cíclo  de pobreza y marginalización intergeneracional. Sin embargo, diferencias en el acceso a la educación y la calidad de esta, plantean un desafío enorme para la igualdad de oportunidad. Por lo tanto, identificar las barreras a la educación y los factores que impactan la calidad de la enseñanza, además de la capacidad de aprendizaje por parte de los estudiantes, es un importante primer paso. 
 
 Yo pretendo hacer esto a través de una análisis de las diferencias socioeconómicos que existen entre los estudiantes a los niveles de la famila y entre colegios, utilizando los resultados (microdatos) del examen _Saber 11_ del año 2021. Es importante tener en cuenta que en este año, la mayoría de las instituciones educativas habían sido cerradas desde el brote de la pandemia del COVID-19 en marzo de 2020 y las clases se desarrollaron si acaso de manera virtual o en lo absoluto.
 
@@ -82,10 +82,28 @@ El código está disponible [aquí].
 ---
 ## Resultados
 
+### Resultados Preliminares 
+
+
+<img width="477" alt="Captura de Pantalla 2022-11-23 a la(s) 11 05 36 a m" src="https://user-images.githubusercontent.com/103537621/203593495-f5ccabe3-997b-41b5-bc15-becbe7b8f1d6.png">
+
+
+
+
 
 ### Al Nivel Familiar
 
-![factoresfamiliares](https://user-images.githubusercontent.com/103537621/203404522-fa5bdc92-28f7-4b90-8667-8bd6751de54c.png)
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Al Nivel Escolar 
