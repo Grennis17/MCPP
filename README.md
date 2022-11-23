@@ -20,7 +20,7 @@ El Puntaje Global será la variable principal de interés, como es el desempeño
 ---
 ## Méotodos Utilizados
 
-### Descargar las bases de datos
+### Descarga de las bases de datos
 
 Las bases de datos principales están disponibles en la página de ICFES: https://www2.icfes.gov.co/web/guest/resultados-individuales-saber-11. (Hay que crear una cuenta para poder accederlas). Los resultados son al nivel del individuo.
 
@@ -53,7 +53,7 @@ El código está disponible [aquí].
 
 ### Generación de gráficos en Power BI
 
-- Utilicé _Power BI_ para hacer unos gráficos de tres dimensiones.
+- Utilicé _Power BI_ para hacer algunos gráficos de tres o cuatro dimensiones.
 
 ### Generación de mapas en QGIS
 
