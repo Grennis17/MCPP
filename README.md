@@ -127,6 +127,15 @@ El código está disponible [aquí].
 
 
 
+<img width="429" alt="Captura de Pantalla 2022-11-23 a la(s) 1 36 46 p m" src="https://user-images.githubusercontent.com/103537621/203623058-06f64746-2e0e-438f-b538-ede1ecd4329a.png">
+
+
+
+<img width="423" alt="Captura de Pantalla 2022-11-23 a la(s) 1 37 27 p m" src="https://user-images.githubusercontent.com/103537621/203623135-d7e6879b-7839-49b2-b10d-be533d7c8b56.png">
+
+
+
+
 
 ### Al Nivel del Departamento 
 
