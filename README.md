@@ -22,9 +22,9 @@ El Puntaje Global será la variable principal de interés, como es el desempeño
 
 ### Descarga de las bases de datos
 
-*Resultados Individuals de Saber 11* Las bases de datos principales están disponibles en la página de ICFES: https://www2.icfes.gov.co/web/guest/resultados-individuales-saber-11. (Hay que crear una cuenta para poder accederlas). Los resultados son al nivel del individuo.
+"**Resultados Individuals de Saber 11**" -  Las bases de datos principales están disponibles en la página de ICFES: https://www2.icfes.gov.co/web/guest/resultados-individuales-saber-11. (Hay que crear una cuenta para poder accederlas). 
 
-Como hay dos opciones de fecha para presentar el examan, dependiendo del calendario del colegio, hay dos archivos de texto por cada año. Los descargué para el año 2021, los convertí en formato de DataFrame utilizando Pandas en Python, y los uní para crear solo una base de datos. El código está disponible [aquí].
+Como hay dos opciones de fecha para presentar el examan, dependiendo del calendario del colegio, hay dos archivos de texto por cada año. Los descargué para el año 2021.
 
 También accedé a la base de datos del Ministerio de Educación, _Estadísticas en Educación_ ,a través del protocolo Socrata Open Data API (SODA). Disponible en el sitio de Datos Abiertos: https://www.datos.gov.co/Educaci-n/MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR-B-SICA/nudc-7mev.
 
@@ -32,24 +32,42 @@ Por útlimo, descargué la base de datos de Cuentas Nacionales del DANE, para  h
 
 ### Depuración de los datos
 
-Utilicé _pandas_ en _Python_ para crear y manejar las bases de datos:
+Utilicé _pandas_ en _Python_ para crear y manejar las bases de datos: 
+- Convertí los archivos .txt a _Data Frames_ y los uní para crear una base grande. El código está disponible [aquí].
 - Eliminé las columnas innecesarias.
 - Eliminé todos los datos nulos.
 - Creé variables dummies a partir de las categóricas.
 
-El código está disponible [aquí].
 
-- Creé diccionarios y otros _Data Frames_ más pequeños a partir de los grandes para poder analizar grupos de variables al nivel individual. 
-- Colapsé la base de datos grandes en diferentes nivels: escolar, de municipio y de departamento para desarrollar análisis a distintas dimensiones. 
-- Fusioné la base de datos de los resultados al nivel del departamento con las otras dos bases de datos que contienen otras variables al nivel departamental. 
+El código está disponible [aquí].
 
 ### EDA en Python
 
+- Creé diccionarios y otros _Data Frames_ más pequeños a partir de los grandes para poder analizar grupos de variables al nivel individual. 
 - Utilice _pandas_ y _numpy_ para sacar estadísticas descriptivas sobre los estudiantes.
 - Utilicé _seaborn_ and _matplotlib_ para hacer los gráficos iniciales.
 
 El código está disponible [aquí].
 
+### Análisis multivariada
+
+#### Regresiones
+
+- Creé un modelo de regresión multivariable, con el puntaje global como variable dependiente y variables socioeconómicas del hogar y colegio (principalmente variables dummies) como variables explicativas, para entender la influenica de cada una en el rendimiento de los estudiantes. Todas resultaron ser significativas, pero el R^2 fue bajo.
+
+
+
+
+
+
+- El código está disponible [aquí].
+
+#### Análisis de multicapas
+
+- Colapsé la base de datos grandes en diferentes nivels: escolar, de municipio y de departamento para desarrollar análisis a distintas dimensiones. 
+- Fusioné la base de datos de los resultados al nivel del departamento con las otras dos bases de datos que contienen otras variables al nivel departamental. 
+
+El código está disponible [aquí].
 
 ### Generación de gráficos en Power BI
 
@@ -63,23 +81,23 @@ El código está disponible [aquí].
 ## Resultados
 
 
-### A Nivel Familiar
+### Al Nivel Familiar
 
 ![factoresfamiliares](https://user-images.githubusercontent.com/103537621/203404522-fa5bdc92-28f7-4b90-8667-8bd6751de54c.png)
 
 
-### A Nivel Escolar 
+### Al Nivel Escolar 
 
 
 
 
 
-### A Nivel del Municipio 
+### Al Nivel del Municipio 
 
 
 
 
-### A Nivel del Departamento 
+### Al Nivel del Departamento 
 
 
 
