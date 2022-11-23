@@ -1,4 +1,4 @@
-# La Desigualdad en Educación
+# La Desigualdad en la Educación
 
 ## Descripción y Motivación
 
