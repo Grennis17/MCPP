@@ -139,6 +139,11 @@ El código está disponible [aquí].
 
 ### Al Nivel del Departamento 
 
+![Deserción Secundaria](https://user-images.githubusercontent.com/103537621/203699195-f93fb0f9-2564-474a-845f-d87006c280d2.png)
+![PIB Dept](https://user-images.githubusercontent.com/103537621/203699208-8e1bc353-1b1b-4e6c-9cb2-af5ac6ec1cf1.png)
+![Percentil Promedio de Puntaje](https://user-images.githubusercontent.com/103537621/203699210-0a1309fc-1670-4bc6-be68-fc22c005b657.png)
 
+![dept_percentil_desercion](https://user-images.githubusercontent.com/103537621/203699308-c276456b-70bc-4cd1-b9a6-66236cd07eb5.png)
+![dept_pib_percentil](https://user-images.githubusercontent.com/103537621/203699314-8b208e1d-9b5e-4b83-a0f1-f412ad98c5d7.png)
 
 
