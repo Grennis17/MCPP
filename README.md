@@ -85,6 +85,20 @@ El código está disponible [aquí].
 ---
 ## Resultados
 
+### Estadísticas Descriptivas
+
+En total, hubo 411491 estudiantes que presentaron el _Saber 11_ examen en el 2021, procedentes de 7513 colegios.
+
+La gran mayoría de los estudiantes no identificarse como étnia minoría; hay más femininos que masculinos; la mayoría tiene un computador y hay aún más estudiantes que cuentan con una conexión de internet en la casa. Más del 60% trabajan. Esto varía entre 1 y 'más de 30 horas' a la semana.
+
+<img width="975" alt="Individuo" src="https://user-images.githubusercontent.com/103537621/203924078-27003cbb-29af-4417-886e-38b95a376938.png">
+
+Hay diversidad entre los colegios de Colombia también. Tres cuartos se ubican en zonas urbanas (en contraste a zonas rurales). Una proporción muy pequeña de los colegios son bilingues o de Calendario B (este siendo, en general, el calendario que los colegios más 'élites' siguen). Casi un tercio de los colegios son privados. La mayoría de los colegios son académicos; los otros se clasifican como técnicos, académico- técnico u 'otro'.
+
+<img width="975" alt="Colegio" src="https://user-images.githubusercontent.com/103537621/203925119-7feaf198-6d72-4959-bad8-f4064ddde8a5.png">
+
+
+
 ### Resultados Preliminares 
 
 
