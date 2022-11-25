@@ -17,7 +17,7 @@ Este examen se presenta por estudiantes del 11 grado en Colombia y es necesario 
 ¿Cómo son las características socioeconómicas del municipio o departamento relacionadas con el desempeño promedio de estudiantes?
 
 
-El Puntaje Global será la variable principal de interés, como es el desempeño general de los estudiantes al graduarse de bachiller, y se considera un 'proxy' para evaluar la calidad de la ensenañza de los colegios.
+El Puntaje Global será la variable principal de interés, dado que indica el desempeño general de los estudiantes al graduarse de bachiller, y se considera un 'proxy' para evaluar la calidad de la ensenañza de los colegios.
 
 ---
 ## Méotodos Utilizados
@@ -26,11 +26,11 @@ El Puntaje Global será la variable principal de interés, como es el desempeño
 
 "**Resultados Individuals de Saber 11**" -  Las bases de datos principales están disponibles en la página de ICFES: https://www2.icfes.gov.co/web/guest/resultados-individuales-saber-11. (Hay que crear una cuenta para poder accederlas). 
 
-Como hay dos opciones de fecha para presentar el examan, dependiendo del calendario del colegio, hay dos archivos de texto por cada año. Los descargué para el año 2021.
+Como hay dos opciones de fecha para presentar el examan dependiendo del calendario del colegio, hay dos archivos de texto por cada año. Los descargué para el año 2021.
 
 También accedé a la base de datos del Ministerio de Educación, _Estadísticas en Educación_ ,a través del protocolo Socrata Open Data API (SODA). Disponible en el sitio de Datos Abiertos: https://www.datos.gov.co/Educaci-n/MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR-B-SICA/nudc-7mev.
 
-Por útlimo, descargué la base de datos de Cuentas Nacionales del DANE, para  https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/cuentas-nacionales-departamentales, que ya estaba disponible en formato csv. 
+Por útlimo, descargué la base de datos de Cuentas Nacionales del DANE, para  https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/cuentas-nacionales-departamentales.  
 
 ### Depuración de los datos
 
@@ -45,13 +45,13 @@ El código está disponible [aquí].
 
 ### EDA en Python
 
-- Creé diccionarios y otros _Data Frames_ más pequeños a partir de los grandes para poder analizar grupos de variables al nivel individual. 
+- Creé diccionarios y otros _Data Frames_ más pequeños a partir de los grandes para poder analizar grupos de variables al nivel individual y escolar.
 - Utilice _pandas_ y _numpy_ para sacar estadísticas descriptivas sobre los estudiantes.
 - Utilicé _seaborn_ , _matplotlib_ and _plotly_ para hacer gráficos bivariados.
 
 El código está disponible [aquí].
 
-### Análisis multivariada
+### Análisis multivariado
 
 #### Regresiones
 
@@ -65,20 +65,22 @@ El código está disponible [aquí].
 
 - El código está disponible [aquí].
 
-#### Análisis de multicapas
+#### Análisis de multiples dimensiones
 
-- Colapsé la base de datos grandes en diferentes nivels: escolar, de municipio y de departamento para desarrollar análisis a distintas dimensiones. 
-- Fusioné la base de datos de los resultados al nivel del departamento con las otras dos bases de datos que contienen otras variables al nivel departamental. 
+- Colapsé la base de datos grandes en diferentes nivels: escolar, municipal y departamental para desarrollar análisis con distintos enfoques. 
+- Fusioné la base de datos de los resultados al nivel del departamento con las otras dos bases de datos que contenían otras variables al nivel departamental. 
 
 El código está disponible [aquí].
 
-### Generación de gráficos en Power BI
+### Generación de gráficos en Power BI y Tableau
 
-- Utilicé _Power BI_ para hacer algunos gráficos de tres o cuatro dimensiones.
+- Utilicé _Power BI_ para hacer los gráficos de proporciones (stacked bar charts).
+- Utilicé _Tableau_ para hacer algunos gráficos de tres dimensiones.
+
 
 ### Generación de mapas en QGIS
 
-- Utilicé QGIS para visualizar las relaciones entre variables al nivel del departamento. 
+- Utilicé QGIS para visualizar la distribución de ciertas variables al nivel departamental. 
 
 ---
 ## Resultados
