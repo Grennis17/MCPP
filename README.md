@@ -1,5 +1,9 @@
 # La Desigualdad en la Educación
 
+![Colombia](https://user-images.githubusercontent.com/103537621/204023094-f6e1bfd9-33a4-431f-a376-69af95eda993.jpeg)
+
+
+
 ## Descripción y Motivación
 
 La educación es una de las herramientas más poderosas para disminuir la desigualdad y promover la mobilidad social, con el potencial de romper el cíclo  de pobreza y marginalización intergeneracional. Sin embargo, diferencias en el acceso a la educación y la calidad de esta, plantean un desafío enorme para la igualdad de oportunidad. Por lo tanto, identificar las barreras a la educación y los factores que impactan la calidad de la enseñanza, además de la capacidad de aprendizaje por parte de los estudiantes, es un importante primer paso. 
@@ -58,7 +62,7 @@ El código está disponible [aquí].
 - Creé un modelo de regresión multivariable, con el puntaje global como variable dependiente y variables socioeconómicas del hogar y colegio (principalmente variables dummies) como variables explicativas, para entender la influenica de cada una en el rendimiento de los estudiantes. Todas resultaron ser significativas, pero el R^2 fue bajo.
 
 
-<img width="724" alt="Captura de Pantalla 2022-11-23 a la(s) 11 12 48 a m" src="https://user-images.githubusercontent.com/103537621/203595066-0fa16ec8-15aa-4189-b17f-7aad3e07cdb2.png">
+<img width="400" alt="Captura de Pantalla 2022-11-23 a la(s) 11 12 48 a m" src="https://user-images.githubusercontent.com/103537621/203595066-0fa16ec8-15aa-4189-b17f-7aad3e07cdb2.png">
 
 
 
@@ -136,21 +140,17 @@ La características del colegio también tuvieron una gran influencia sobre los 
 
 ![factoresescolares](https://user-images.githubusercontent.com/103537621/203931591-b907528b-2ac7-46bd-a731-dd3570219028.png)
 
-La diferencia entre colegios de Calendario A y de Calendario B siendo la brecha más grande. Analizando esto más, 
+La diferencia entre colegios de Calendario A y de Calendario B siendo la brecha más grande. Profundizando un poco más, al considerar qué porcentaje de cada tipo de colegios se encuentran en los percentiles, vemos que colegios de Calendario A siguen una distribución normal, mientras que para los de Calendario B, la distribución es muy anormal. La mayoría de estos colegios se encuentran en la mitad superior de los percentiles:
 
 ![Calendario](https://user-images.githubusercontent.com/103537621/203932545-53c3df56-84c5-4c16-bea3-81693baca85b.png)
 
+La distribución de los percentiles para colegios privados y públicos evidencian el mayor rendimiento de colegios privados, estos tienen un sesgo negativo:
 
 ![Estatus](https://user-images.githubusercontent.com/103537621/203932601-6afb2bf2-5a9a-4da0-bbc1-e354cb8ec68c.png)
 
 
 
 ### Al Nivel del Municipio 
-
-Al mapear los percentiles promedios de cada municipio, podemos entender las diferencias regionales dentro del país.
-
-
-
 
 Cuando exploramos el tema de la conectividad, no es extrañar que haya una correlación directa y positiva entre tener un computador y tener una conexión de internet en el hogar. Pero al agregar la dimensión del estatus del colegio, vemos que los municipios con una baja proporción de colegios privados son los que también tienen bajos niveles de conectividad entre los estudiantes:
 ![Tableau 1](https://user-images.githubusercontent.com/103537621/203933278-821314ab-8ce2-4eb4-8641-2a70090b6103.png)
@@ -159,8 +159,6 @@ Cuando exploramos el tema de la conectividad, no es extrañar que haya una corre
 Si hacemos un zoom en los colegios privados, vemos que municipios con mayores proporciones de colegios privados, en general, se encuentran en los percentiles más altos. Sin embargo, estos son municipios en que un porcentaje muy pequeño de los estudiantes son de una étnia minoría.
 
 ![Tableau](https://user-images.githubusercontent.com/103537621/203933295-3f2e990d-2ef4-40f3-9c8a-17a6bd121ce4.png)
-
-
 
 
 
@@ -184,13 +182,17 @@ Lo cual es relacionada con niveles de conectividad (como proporción de estudian
 
 ## Conclusiones
 
-Factores socioeconomicos inidividuales, como si el estudiante trabaja, tiene impactos en su capacidad de aprendizaje. Más preocupante es la brecha entre los estudiantes que se identifican como una étnia minoria y los que no. 
+El año 2021 presentó una continuación de los desafíos enfrentados por los estudiantes en la coyuntura de la pandemia global. 
+
+Factores socioeconomicos inidividuales, como si el estudiante trabaja, tiene impactos en su capacidad de aprendizaje. Lo más preocupante es la brecha entre los estudiantes que se identifican como una étnia minoria y los que no. 
 
 Existen grandes diferencias en los niveles de conectividad al nivel nacional que están correlacionadas con el rendimiento de estudiantes.
 
-Colegios con mayores recursos tienen un mejor desempeño. 
+Colegios con mayores recursos, en particular aquellos que son de Calendario B, son públicos o quedan en zonas urbana, tienen un mejor desempeño. 
 
 La deserción escolar está relacionada con el PIB del departamento y niveles generales de conexion de internet.
+
+La educación es una síntoma de la desigualdad en Colombia, pero también una fuente de ella.
 
 
 
