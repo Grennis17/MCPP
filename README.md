@@ -139,7 +139,16 @@ Como respuesta a la pregunta: 'Con respecto al año inmediatamente anterior, la 
 
 ### Al Nivel Escolar 
 
-La características del colegio también tuvieron una gran influencia sobre los resultados.
+Podemos evidenciar diferencias demográficas en la composición de estudiantes entre colegios urbanos/ rurales, y entre colegios públicos/ privados:
+
+
+<img width="880" alt="Schools1" src="https://user-images.githubusercontent.com/103537621/204041668-845744b5-3fc7-4506-b287-15dc31d3a2b2.png">
+
+
+<img width="880" alt="Schools2" src="https://user-images.githubusercontent.com/103537621/204041675-e958a307-e64f-4c0d-a787-af0a2c56b043.png">
+
+
+Al considerar el puntaje global de los estudiantes, vemos que las características del colegio también tuvieron una gran influencia sobre los resultados.
 
 ![factoresescolares](https://user-images.githubusercontent.com/103537621/203931591-b907528b-2ac7-46bd-a731-dd3570219028.png)
 
