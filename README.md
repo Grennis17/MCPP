@@ -36,7 +36,7 @@ El código está disponible [aquí](https://github.com/Grennis17/MCPP/blob/main/
 
 También accedé a la base de datos del Ministerio de Educación, _Estadísticas en Educación_ ,a través del protocolo Socrata Open Data API (SODA). Disponible en el sitio de Datos Abiertos: https://www.datos.gov.co/Educaci-n/MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR-B-SICA/nudc-7mev.
 
-El código está disponible [aquí].
+El código está disponible [aquí](https://github.com/Grennis17/MCPP/blob/main/5.%20Deserscion.ipynb).
 
 Por útlimo, descargué la base de datos de Cuentas Nacionales del DANE, para  https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/cuentas-nacionales-departamentales.  
 
