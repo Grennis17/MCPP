@@ -169,6 +169,7 @@ Mirando la distribución del percentil promedio del departamento, podemos ver qu
 ![Percentil Promedio de Puntaje](https://user-images.githubusercontent.com/103537621/204020213-bbabc323-3a1a-47b2-b8b8-99e0c996288e.png)
 
 Si compraramos este mapa con el PIB per cápita, estos departamentos con los menores puntajes son también aquellos con los menores niveles de PIBpc:
+
 <img width="777" alt="PIBpc" src="https://user-images.githubusercontent.com/103537621/204020266-3165917b-62d3-4046-9678-0025e692949e.png">
 
 Y también, tienen tasas de deserción secundaria más altas:
