@@ -166,6 +166,31 @@ Si hacemos un zoom en los colegios privados, vemos que municipios con mayores pr
 
 ### Al Nivel del Departamento 
 
+Mirando la distribución del percentil promedio del departamento, podemos ver que la capital, Bogotá D.C., tiene el mayor percentil promedio. Los departamentos a su alrededor también se encuentran en los percentiles más altos. Los departamentos del sur y de la costa pacífica se encuentran en los percentiles más bajos.
+
+![Percentil Promedio de Puntaje](https://user-images.githubusercontent.com/103537621/204020213-bbabc323-3a1a-47b2-b8b8-99e0c996288e.png)
+
+Si compraramos este mapa con el PIB per cápita, estos departamentos con los menores puntajes son también aquellos con los menores niveles de PIBpc:
+<img width="777" alt="PIBpc" src="https://user-images.githubusercontent.com/103537621/204020266-3165917b-62d3-4046-9678-0025e692949e.png">
+
+Y también, tienen tasas de deserción secundaria más altas:
+![Deserción Secundaria (1)](https://user-images.githubusercontent.com/103537621/204020304-74599720-7774-43ed-9d1e-1fda7813056f.png)
+
+
+Lo cual es relacionada con niveles de conectividad (como proporción de estudiantes que cuentan con una conexión de internet en casa):
+![Conectividad](https://user-images.githubusercontent.com/103537621/204020334-8d973646-4e45-4d27-be67-3afc1d2aa682.png)
+
+
+
+## Conclusiones
+
+Factores socioeconomicos inidividuales, como si el estudiante trabaja, tiene impactos en su capacidad de aprendizaje. Más preocupante es la brecha entre los estudiantes que se identifican como una étnia minoria y los que no. 
+
+Existen grandes diferencias en los niveles de conectividad al nivel nacional que están correlacionadas con el rendimiento de estudiantes.
+
+Colegios con mayores recursos tienen un mejor desempeño. 
+
+La deserción escolar está relacionada con el PIB del departamento y niveles generales de conexion de internet.
 
 
 
