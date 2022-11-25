@@ -38,6 +38,8 @@ El código está disponible [aquí](https://github.com/Grennis17/MCPP/blob/main/
 
 Por útlimo, descargué la base de datos de Cuentas Nacionales del DANE, para  https://www.dane.gov.co/index.php/estadisticas-por-tema/cuentas-nacionales/cuentas-nacionales-departamentales.  
 
+Todas las bases de datos se encuentran [aquí](https://drive.google.com/drive/u/0/folders/194NVGWIZkzVX_BzfMHHVxdbExB2jYDM5).
+
 ### Depuración de los datos
 
 Utilicé _pandas_ en _Python_ para crear y manejar las bases de datos: 
