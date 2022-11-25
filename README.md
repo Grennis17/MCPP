@@ -52,7 +52,7 @@ El código está disponible [aquí](https://github.com/Grennis17/MCPP/blob/main/
 - Utilice _pandas_ y _numpy_ para sacar estadísticas descriptivas sobre los estudiantes.
 - Utilicé _seaborn_ , _matplotlib_ and _plotly_ para hacer gráficos bivariados.
 
-El código está disponible [aquí].
+El código está disponible [aquí](https://github.com/Grennis17/MCPP/blob/main/3.%20EDA.ipynb). 
 
 ### Análisis multivariado
 
