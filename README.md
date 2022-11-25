@@ -141,11 +141,9 @@ Como respuesta a la pregunta: 'Con respecto al año inmediatamente anterior, la 
 
 Podemos evidenciar diferencias demográficas en la composición de estudiantes entre colegios urbanos/ rurales, y entre colegios públicos/ privados:
 
+<img width="820" alt="Schools1" src="https://user-images.githubusercontent.com/103537621/204041926-e0afe397-e42b-4725-8e16-d1e743ecf036.png">
 
-<img width="880" alt="Schools1" src="https://user-images.githubusercontent.com/103537621/204041668-845744b5-3fc7-4506-b287-15dc31d3a2b2.png">
-
-
-<img width="880" alt="Schools2" src="https://user-images.githubusercontent.com/103537621/204041675-e958a307-e64f-4c0d-a787-af0a2c56b043.png">
+<img width="820" alt="Schools2" src="https://user-images.githubusercontent.com/103537621/204041930-cf438e01-611e-4091-b31b-991b9da0d24b.png">
 
 
 Al considerar el puntaje global de los estudiantes, vemos que las características del colegio también tuvieron una gran influencia sobre los resultados.
