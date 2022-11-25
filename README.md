@@ -111,8 +111,6 @@ Sin embargo, al explorar las características individuales de los estudiantes, p
 
 Más impactante es la diferencia en rendimiento entre los que se indentifican como étnia minoría y los que no. Pero también, hay una brecha considerable entre los que tienen o no tienen un computador o una conexión de internet en la casa.
 
-Al investigar este tema de conectividad un poco má
-Más impactante es la diferencia en rendimiento entre los que se indentifican como étnia minoría y los que no. Pero también, hay una brecha considerable entre los que tienen o no tienen un computador o una conexión de internet en la casa.
 
 Al investigar este tema de conectividad un poco más al profundo, es claro que no contrar con estos representaron un desventaje - las medias son más bajas y la distribución es más positivamente sesgada, indicando que la mayoría de ellos se encuentran por debajo de esta.
 
