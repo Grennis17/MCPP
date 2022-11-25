@@ -66,7 +66,7 @@ El código está disponible [aquí](https://github.com/Grennis17/MCPP/blob/main/
 
 
 
-- El código está disponible [aquí].
+- El código está disponible [aquí](https://github.com/Grennis17/MCPP/blob/main/4.%20Regresiones.ipynb).
 
 #### Análisis de multiples dimensiones
 
