@@ -99,56 +99,68 @@ Hay diversidad entre los colegios de Colombia también. Tres cuartos se ubican e
 
 Hay representación de cada municipio en Colombia (1103 en total) y de cada departamento. La Capital, Bogotá D.C., se define como un departamento independiente en estas bases de datos, por lo cual dan un total de 33 departamentos.
 
-### Resultados Preliminares 
+### Al nivel Individual
 
 Podemos evidenciar una distribución normal de los resultados:
 
 <img width="400" alt="Captura de Pantalla 2022-11-23 a la(s) 11 05 36 a m" src="https://user-images.githubusercontent.com/103537621/203593495-f5ccabe3-997b-41b5-bc15-becbe7b8f1d6.png">
 
+Sin embargo, al explorar las características individuales de los estudiantes, podemos ver mucha heterogeneity entre ellos y su rendimiento :
 
+![factoresfamiliares](https://user-images.githubusercontent.com/103537621/203930196-b01edd45-52e0-4a05-8106-ef2f4cd18749.png)
+
+Más impactante es la diferencia en rendimiento entre los que se indentifican como étnia minoría y los que no. Pero también, hay una brecha considerable entre los que tienen o no tienen un computador o una conexión de internet en la casa.
+
+Al investigar este tema de conectividad un poco má
+Más impactante es la diferencia en rendimiento entre los que se indentifican como étnia minoría y los que no. Pero también, hay una brecha considerable entre los que tienen o no tienen un computador o una conexión de internet en la casa.
+
+Al investigar este tema de conectividad un poco más al profundo, es claro que no contrar con estos representaron un desventaje - las medias son más bajas y la distribución es más positivamente sesgada, indicando que la mayoría de ellos se encuentran por debajo de esta.
+
+
+<img width="682" alt="fam_comp_int" src="https://user-images.githubusercontent.com/103537621/203931307-0c8fdf5f-3cf4-4d44-8960-1a0f31e591de.png">
 
 
 
 ### Al Nivel Familiar
 
+Al considerar el estato social de la vivienda de la familia, se nota que el puntaje promedio aumenta ligeramente con el estrato. Sin embargo, también aumentan los rangos intercuartiles, sugiriendo que hay más estudiantes más lejos de la media en los estratos más altos que en los más bajos, donde se concentran más alrededor de la media. Estudiantes de todos estratos pudieron lograr puntajes altos, y de hecho el estudiante con la mayor nota proviene del estrato 1. 
+
+<img width="443" alt="fam_estrato" src="https://user-images.githubusercontent.com/103537621/203604884-2714fa10-d79c-4e8f-8f5d-5317628b4b50.png">
+
+Como respuesta a la pregunta: 'Con respecto al año inmediatamente anterior, la situación económica de su hogar es:' los estudiantes pueden eligir Mejor, Peor o Igual. Podemos ver en el siguiente gráfico que la mayoría optó por igual. Más interesantemente, los que respondieron que 'mejor' tiene una distribución ligeramente positivamente sesgada, indicando que su desempeño fue por debajo de los estudiantes que se encontraron en una peor situación económica.
 
 <img width="443" alt="fam_situacion" src="https://user-images.githubusercontent.com/103537621/203604853-01b0e01c-939f-4ddd-b915-0c57e28f18d2.png">
 
 
-<img width="443" alt="fam_estrato" src="https://user-images.githubusercontent.com/103537621/203604884-2714fa10-d79c-4e8f-8f5d-5317628b4b50.png">
-
-<img width="682" alt="fam_comp_int" src="https://user-images.githubusercontent.com/103537621/203604906-789e5189-b199-43ca-9629-36b993cd114c.png">
-
-<img width="622" alt="fam" src="https://user-images.githubusercontent.com/103537621/203604927-780bb352-74ad-4f8f-bec9-94f54aef2a93.png">
-
-
-
-
-
 ### Al Nivel Escolar 
 
+La características del colegio también tuvieron una gran influencia sobre los resultados.
 
-<img width="599" alt="Captura de Pantalla 2022-11-23 a la(s) 3 23 33 p m" src="https://user-images.githubusercontent.com/103537621/203639791-146682f0-23b1-47f7-b060-dabd0db84df3.png">
+![factoresescolares](https://user-images.githubusercontent.com/103537621/203931591-b907528b-2ac7-46bd-a731-dd3570219028.png)
+
+La diferencia entre colegios de Calendario A y de Calendario B siendo la brecha más grande. Analizando esto más, 
+
+![Calendario](https://user-images.githubusercontent.com/103537621/203932545-53c3df56-84c5-4c16-bea3-81693baca85b.png)
 
 
-![newplot (2)](https://user-images.githubusercontent.com/103537621/203619721-59f0ec03-f3ec-4af1-ba8f-e07f3fb4ade6.png)
-
-
-
-![newplot (3)](https://user-images.githubusercontent.com/103537621/203619981-1b2c6567-f987-4b52-97f0-e87afbce4821.png)
-
+![Estatus](https://user-images.githubusercontent.com/103537621/203932601-6afb2bf2-5a9a-4da0-bbc1-e354cb8ec68c.png)
 
 
 
 ### Al Nivel del Municipio 
 
+Al mapear los percentiles promedios de cada municipio, podemos entender las diferencias regionales dentro del país.
 
 
-<img width="429" alt="Captura de Pantalla 2022-11-23 a la(s) 1 36 46 p m" src="https://user-images.githubusercontent.com/103537621/203623058-06f64746-2e0e-438f-b538-ede1ecd4329a.png">
 
 
+Cuando exploramos el tema de la conectividad, no es extrañar que haya una correlación directa y positiva entre tener un computador y tener una conexión de internet en el hogar. Pero al agregar la dimensión del estatus del colegio, vemos que los municipios con una baja proporción de colegios privados son los que también tienen bajos niveles de conectividad entre los estudiantes:
+![Tableau 1](https://user-images.githubusercontent.com/103537621/203933278-821314ab-8ce2-4eb4-8641-2a70090b6103.png)
 
-<img width="423" alt="Captura de Pantalla 2022-11-23 a la(s) 1 37 27 p m" src="https://user-images.githubusercontent.com/103537621/203623135-d7e6879b-7839-49b2-b10d-be533d7c8b56.png">
+
+Si hacemos un zoom en los colegios privados, vemos que municipios con mayores proporciones de colegios privados, en general, se encuentran en los percentiles más altos. Sin embargo, estos son municipios en que un porcentaje muy pequeño de los estudiantes son de una étnia minoría.
+
+![Tableau](https://user-images.githubusercontent.com/103537621/203933295-3f2e990d-2ef4-40f3-9c8a-17a6bd121ce4.png)
 
 
 
@@ -156,11 +168,6 @@ Podemos evidenciar una distribución normal de los resultados:
 
 ### Al Nivel del Departamento 
 
-![Deserción Secundaria](https://user-images.githubusercontent.com/103537621/203699195-f93fb0f9-2564-474a-845f-d87006c280d2.png)
-![PIB Dept](https://user-images.githubusercontent.com/103537621/203699208-8e1bc353-1b1b-4e6c-9cb2-af5ac6ec1cf1.png)
-![Percentil Promedio de Puntaje](https://user-images.githubusercontent.com/103537621/203699210-0a1309fc-1670-4bc6-be68-fc22c005b657.png)
 
-![dept_percentil_desercion](https://user-images.githubusercontent.com/103537621/203699308-c276456b-70bc-4cd1-b9a6-66236cd07eb5.png)
-![dept_pib_percentil](https://user-images.githubusercontent.com/103537621/203699314-8b208e1d-9b5e-4b83-a0f1-f412ad98c5d7.png)
 
 
