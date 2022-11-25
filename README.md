@@ -97,12 +97,13 @@ Hay diversidad entre los colegios de Colombia también. Tres cuartos se ubican e
 
 <img width="975" alt="Colegio" src="https://user-images.githubusercontent.com/103537621/203925119-7feaf198-6d72-4959-bad8-f4064ddde8a5.png">
 
-
+Hay representación de cada municipio en Colombia (1103 en total) y de cada departamento. La Capital, Bogotá D.C., se define como un departamento independiente en estas bases de datos, por lo cual dan un total de 33 departamentos.
 
 ### Resultados Preliminares 
 
+Podemos evidenciar una distribución normal de los resultados:
 
-<img width="477" alt="Captura de Pantalla 2022-11-23 a la(s) 11 05 36 a m" src="https://user-images.githubusercontent.com/103537621/203593495-f5ccabe3-997b-41b5-bc15-becbe7b8f1d6.png">
+<img width="400" alt="Captura de Pantalla 2022-11-23 a la(s) 11 05 36 a m" src="https://user-images.githubusercontent.com/103537621/203593495-f5ccabe3-997b-41b5-bc15-becbe7b8f1d6.png">
 
 
 
