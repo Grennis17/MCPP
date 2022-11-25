@@ -45,7 +45,7 @@ Utilicé _pandas_ en _Python_ para crear y manejar las bases de datos:
 - Creé variables dummies a partir de las categóricas.
 
 
-El código está disponible [aquí]1. Crear base de datos.ipynb.
+El código está disponible [aquí].[https://github.com/Grennis17/MCPP/blob/main/1.%20Crear%20base%20de%20datos.ipynb]
 ### EDA en Python
 
 - Creé diccionarios y otros _Data Frames_ más pequeños a partir de los grandes para poder analizar grupos de variables al nivel individual y escolar.
