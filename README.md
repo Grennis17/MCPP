@@ -32,7 +32,7 @@ El Puntaje Global será la variable principal de interés, dado que indica el de
 
 Como hay dos opciones de fecha para presentar el examan dependiendo del calendario del colegio, hay dos archivos de texto por cada año. Los descargué para el año 2021.
 
-El código está disponible [aquí].
+El código está disponible [aquí](https://github.com/Grennis17/MCPP/blob/main/1.%20Crear%20base%20de%20datos.ipynb).
 
 También accedé a la base de datos del Ministerio de Educación, _Estadísticas en Educación_ ,a través del protocolo Socrata Open Data API (SODA). Disponible en el sitio de Datos Abiertos: https://www.datos.gov.co/Educaci-n/MEN_ESTADISTICAS_EN_EDUCACION_EN_PREESCOLAR-B-SICA/nudc-7mev.
 
